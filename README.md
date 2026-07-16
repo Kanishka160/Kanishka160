@@ -1,4 +1,4 @@
- Hi, I'm Kanishka Raj 👋
+ Hi, I'm Kanishka Raj 
 🎓 B.Tech Artificial Intelligence & Machine Learning Student
 💡 Passionate about Artificial Intelligence, Machine Learning, and Generative AI.
  🚀 Skills
