@@ -16,6 +16,7 @@
 AI-powered Research Paper Assistant built using Gemini API, LangChain, ChromaDB, and RAG
 🛒 Smart Grocery Manager
 OCR-based grocery management system with AI-powered recipe recommendations.
+
 🌱 Currently Learning
 - Large Language Models (LLMs)
 - Advanced RAG Systems
