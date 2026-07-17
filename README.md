@@ -26,7 +26,7 @@ OCR-based grocery management system with AI-powered recipe recommendations.
 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/kanishka-raj-664093301
 - GitHub: github.com/Kanishka160
-- 
+
 ⭐ Always eager to learn, build, and contribute to AI-powered solutions.
 
 <!--
