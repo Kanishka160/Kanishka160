@@ -43,7 +43,6 @@ legal document analysis.
 
 🌱 Currently Learning
 
-- Large Language Models (LLMs)
 - Advanced RAG
 - AI Application Development
 - ML Model Deployment
