@@ -1,27 +1,55 @@
- Hi, I'm Kanishka Raj 
-🎓 B.Tech Artificial Intelligence & Machine Learning Student
-💡 Passionate about Artificial Intelligence, Machine Learning, and Generative AI.
+Hi 👋, I'm Kanishka Raj R
+🎓 B.Tech Artificial Intelligence & Machine Learning Student  
+🤖 AI/ML | Machine Learning | Generative AI | NLP | Computer Vision
 
- 🚀 Skills
-- Python
-- SQL
-- Machine Learning
-- Flask
-- FastAPI
-- Git & GitHub
-- Gemini API
-- RAG (Retrieval-Augmented Generation)
-📂 Featured Projects
-📄 Research Paper Assistant
-AI-powered Research Paper Assistant built using Gemini API, LangChain, ChromaDB, and RAG
-🛒 Smart Grocery Manager
-OCR-based grocery management system with AI-powered recipe recommendations.
+I am a B.Tech AI & ML student passionate about building practical
+AI-powered applications using Machine Learning, Deep Learning,NLP, Computer Vision, and Generative AI.
+
+🛠️ Technical Skills
+* Languages: Python, SQL
+* Machine Learning: Scikit-learn, Regression, Classification, Clustering,
+  Feature Engineering, EDA, Data Preprocessing
+* Deep Learning: TensorFlow, Keras, Neural Networks, CNN, RNN, LSTM
+* NLP & Computer Vision: NLP, BERT, Transformers, spaCy, OpenCV, FaceNet
+* Generative AI: LLMs, RAG, Prompt Engineering, Embeddings,
+  Semantic Search, LangChain, Google Gemini API
+* Backend & Deployment: Flask, FastAPI, REST APIs
+* Databases: MySQL, PostgreSQL
+* Tools: Git, GitHub, VS Code, Google Colab
+
+🚀 Featured Projects
+
+📄 AI Research Paper Assistant
+AI-powered research paper assistant using RAG, LangChain,
+embeddings, semantic retrieval, and Google Gemini API.
+
+- Upload research papers and ask questions in natural language
+- Retrieves relevant sections from documents
+- Generates context-grounded responses using Gemini API
+
+👁️ Face Recognition System for Police Department
+AI-powered face recognition application using Computer Vision.
+
+- Face detection and image preprocessing using OpenCV
+- Face embeddings using FaceNet
+- Face matching against stored records
+- Flask-based application for image and camera input
+
+⚖️ E-Court with AI-Powered Legal Assistance
+AI-based legal assistance system for case management and
+legal document analysis.
+
+- NLP-based legal document processing
+- BERT and spaCy for information extraction and classification
+- SQL database for case record management
+- Published as a research paper
 
 🌱 Currently Learning
+
 - Large Language Models (LLMs)
-- Advanced RAG Systems
-- AI Agents
-- MLOps
+- Advanced RAG
+- AI Application Development
+- ML Model Deployment
 
 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/kanishka-raj-664093301
@@ -29,17 +57,3 @@ OCR-based grocery management system with AI-powered recipe recommendations.
 
 ⭐ Always eager to learn, build, and contribute to AI-powered solutions.
 
-<!--
-**Kanishka160/Kanishka160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
