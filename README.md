@@ -2,9 +2,6 @@ Hi 👋, I'm Kanishka Raj R
 🎓 B.Tech Artificial Intelligence & Machine Learning Student  
 🤖 AI/ML | Machine Learning | Generative AI | NLP | Computer Vision
 
-I am a B.Tech AI & ML student passionate about building practical
-AI-powered applications using Machine Learning, Deep Learning,NLP, Computer Vision, and Generative AI.
-
 🛠️ Technical Skills
 * Languages: Python, SQL
 * Machine Learning: Scikit-learn, Regression, Classification, Clustering,
